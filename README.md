@@ -91,96 +91,74 @@ As a result, this homelab has made me competent in the foundation of security au
 
 ## Appendix A
 
-Fig, 1. Host discovery through arp -a as shown in the screenshot below or logging into the router’s admin console to identify hosts connected to LAN.
+***Fig, 1.*** Host discovery via arp -a or router admin console identifying LAN hosts.
 
 <img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/08fa795c-48b5-41a5-b69c-5b94ef4495f4"/>
 
-Fig, 2. Using the pre-configure profile for host discovery through Nessus Essentials to scan for a target IP addresses within my LAN.
-<img width="500" src="
-  "/>
+***Fig, 2.*** Using pre-configured Nessus Essentials profile for LAN IP scanning.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/4dc930f0-58eb-4301-a574-892f8a868be9">
 
-Fig, 3. The host discovery results showing all IP addresses for connected network devices.
-<img width="500" src="
-  "/>
+***Fig, 3.*** Host discovery results displaying all connected network devices' IP addresses.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/85d4480e-7ea9-471d-af59-3f70b5064c6b">
 
-Fig, 4. Created a new custom policy template which I would use to configure the settings in regard to my personal scanning environment and scope of testing.
-<img width="500" src="
-  "/>
+***Fig, 4.*** Custom policy template creation for personal scanning environment settings.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/23ee7df2-8b8b-4fad-9c34-674fa5d4e06a">
 
+***Fig, 5.*** Selection of advanced scan type for comprehensive scanning.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/604189e9-28e5-4b01-b736-7bdf03b5a398">
 
-Fig, 5. Selected the advanced scan type in order to do a comprehensive scan.
-<img width="500" src="
-  "/>
+***Fig, 6.*** Creation of new scan template.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/1177b6e1-fe9a-494e-b188-0736ef080761">
 
+***Fig, 7.*** Usage of 'user-defined' scan template with custom policy selection.
 
-Fig, 6. Selected ‘new scan’ so that I can create a new scan template.
-<img width="500" src="
-  "/>
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/acf2b3c0-d00c-4dc9-a51e-7ed9f1e30561">
 
+***Fig, 8.*** Illustration of chosen plugins for scanning environment and testing scope.
 
-Fig, 7. For my scan template I used the ‘user-defined’ scan template where it was possible to select my previously created custom policy.
-<img width="500" src="
-  "/>
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/a0d67eb3-7797-49e7-b149-57a463993459">
 
+***Fig, 9.*** Custom scan named 'policy_scan'.
 
-Fig, 8. This screenshot illustrates the plugins chosen as it pertains to my scanning environment and scope of the testing. 
-<img width="500" src="
-  "/>
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/7186e642-fd6c-4ab3-9370-fa7f9bd83cb7">
 
+***Fig, 10.*** Initial comprehensive vulnerability scan results.
 
-Fig, 9. This custom scan was aptly titled, ‘policy_scan’.
-<img width="500" src="
-  "/>
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/27971885-4a03-4e61-9c15-a1fd2399c7b3">
 
+***Fig, 11.*** SSL certificate issue illustration.
 
-Fig, 10. This screenshot illustrates the test results from the initial comprehensive vulnerability scan.
-<img width="500" src="
-  "/>
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/eaa01e73-bc56-4777-8531-47c56626dc73">
 
+***Fig, 12.*** Another SSL certificate issue illustration.
 
-Fig, 11. Illustrates the SSL certificate issue.
-<img width="500" src="
-  "/>
-  
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/c7a41037-f775-4c0f-a3e7-49f49198e63b">
 
-Fig, 12. Illustrates another SSL certificate issue.
-<img width="500" src="
-  "/>
+***Fig, 13.*** Screenshot showing potential risks from informational to medium.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/7f7a710f-a5dd-4cc0-84b3-e7e83d7897a7">
 
-Fig, 13. This screenshot shows many potential risks ranging from informational to medium risk.
-<img width="500" src="
-  "/>
+***Fig, 14.*** Illustration of SMB issue that was resolved manually.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/48c7c431-bead-4688-bba6-517537a76447">
 
-Fig, 14. Shows the SMB issue which was eventually resolved manually.
-<img width="500" src="
-  "/>
+***Fig, 15.*** Creation of new custom scan targeting a single IP address containing SMB issue. Resolved through enabling it in the local security policy console.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/1e9011fc-038b-4366-bd93-00ab4741af6a">
 
-Fig, 15. A new custom scan was created with a target on the single IP address to be time efficient which contained the SMB issue that I resolved through enabling it in the local security policy console.
-<img width="500" src="
-  "/>
+***Fig, 16.*** Production of dashboard and technical analysis reports in HTML and CSV formats, respectively.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/c4b45ddb-4fa3-42bf-a6ac-59ab2a7d8cec">
 
-Fig, 16. Produced two reports which were a simple a dashboard report and a technical analysis report shown in both HTML and CSV formats, respectively.
-<img width="500" src="
-  "/>
+***Fig, 17.*** Simple dashboard report suitable for clients desiring brief yet detailed scan results.
 
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/65015881-a083-4db4-a996-e73f853a957e">
 
-Fig, 17. A simple dashboard report. Suitable for clients that just want to have a short but detailed scan results.
-<img width="500" src="
-  "/>
+***Fig, 18.*** Technical analysis CSV report with cleaned, filtered, and sorted data, facilitating batch fixing of issues by plugin ID.
 
-
-Fig, 18. The technical analysis report which data has been cleaned, filtered and sorted. In this screenshot the CSV document has been sorted by ‘plugin ID‘ so that an IT professional can easily see what type of issues to batch fix as duplicate plugin IDs are shown together.
-<img width="500" src="
-  "/>
-
-
-
+<img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/987fb798-236b-4b98-a0c6-30d9db0d29f3">
