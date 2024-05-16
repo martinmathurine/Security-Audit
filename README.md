@@ -91,7 +91,7 @@ As a result, this homelab has made me competent in the foundation of security au
 
 ## Appendix A
 
-Fig, 1. Host discovery through logging into my router’s IP address in my web browser to identify hosts connected to LAN.
+Fig, 1. Host discovery through arp -a as shown in the screenshot below or logging into the router’s admin console to identify hosts connected to LAN.
 <img width="500" src="https://github.com/martinmathurine/Security-Audit/assets/42855193/08fa795c-48b5-41a5-b69c-5b94ef4495f4"/>
 
 Fig, 2. Using the pre-configure profile for host discovery through Nessus Essentials to scan for a target IP addresses within my LAN.
