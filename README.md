@@ -91,5 +91,99 @@ As a result, this homelab has made me competent in the foundation of security au
 
 ## Appendix A
 
+Appendix A
+
+Fig, 1. Host discovery through logging into my router’s IP address in my web browser to identify hosts connected to LAN.
+<img width="500" src="
+  "/>
+
+
+Fig, 2. Using the pre-configure profile for host discovery through Nessus Essentials to scan for a target IP addresses within my LAN.
+<img width="500" src="
+  "/>
+
+
+Fig, 3. The host discovery results showing all IP addresses for connected network devices.
+<img width="500" src="
+  "/>
+
+
+Fig, 4. Created a new custom policy template which I would use to configure the settings in regard to my personal scanning environment and scope of testing.
+<img width="500" src="
+  "/>
+
+
+
+
+Fig, 5. Selected the advanced scan type in order to do a comprehensive scan.
+<img width="500" src="
+  "/>
+
+
+
+Fig, 6. Selected ‘new scan’ so that I can create a new scan template.
+<img width="500" src="
+  "/>
+
+
+Fig, 7. For my scan template I used the ‘user-defined’ scan template where it was possible to select my previously created custom policy.
+<img width="500" src="
+  "/>
+
+
+Fig, 8. This screenshot illustrates the plugins chosen as it pertains to my scanning environment and scope of the testing. 
+<img width="500" src="
+  "/>
+
+
+Fig, 9. This custom scan was aptly titled, ‘policy_scan’.
+<img width="500" src="
+  "/>
+
+
+Fig, 10. This screenshot illustrates the test results from the initial comprehensive vulnerability scan.
+<img width="500" src="
+  "/>
+
+
+Fig, 11. Illustrates the SSL certificate issue.
+<img width="500" src="
+  "/>
+  
+
+Fig, 12. Illustrates another SSL certificate issue.
+<img width="500" src="
+  "/>
+
+
+Fig, 13. This screenshot shows many potential risks ranging from informational to medium risk.
+<img width="500" src="
+  "/>
+
+
+Fig, 14. Shows the SMB issue which was eventually resolved manually.
+<img width="500" src="
+  "/>
+
+
+Fig, 15. A new custom scan was created with a target on the single IP address to be time efficient which contained the SMB issue that I resolved through enabling it in the local security policy console.
+<img width="500" src="
+  "/>
+
+
+Fig, 16. Produced two reports which were a simple a dashboard report and a technical analysis report shown in both HTML and CSV formats, respectively.
+<img width="500" src="
+  "/>
+
+
+Fig, 17. A simple dashboard report. Suitable for clients that just want to have a short but detailed scan results.
+<img width="500" src="
+  "/>
+
+
+Fig, 18. The technical analysis report which data has been cleaned, filtered and sorted. In this screenshot the CSV document has been sorted by ‘plugin ID‘ so that an IT professional can easily see what type of issues to batch fix as duplicate plugin IDs are shown together.
+<img width="500" src="
+  "/>
+
 
 
