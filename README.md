@@ -68,45 +68,26 @@ To conclude, Nessus is an industry-standard tool used to perform vulnerability a
 As a result, this homelab has made me competent in the foundation of security auditing. 
 
 ## References
-### [1] ‘What Is the Nessus Scanner? Working and Key Features’. Spiceworks, https://www.spiceworks.com/it-security/data-security/articles/what-is-nessus-scanner/. Accessed 5 Mar. 2023.
-
-### [2] ‘Data Protection’. GOV.UK, https://www.gov.uk/data-protection. Accessed 5 Mar. 2023.
-
-### [3] About Cyber Essentials. https://www.ncsc.gov.uk/cyberessentials/overview. Accessed 5 Mar. 2023.
-
-### [4] Tankard, Colin. ‘Cyber Essentials Accreditation – Is It Worth It?’ Elite Business Magazine, 21 Oct. 2022, https://elitebusinessmagazine.co.uk/technology/item/cyber-essentials-accreditation-is-it-worth-it. Accessed 5 Mar. 2023.
-
-### [5] ECSA, Strahinja Stankovic. ‘How To Perform A Successful Network Vulnerability Assessment’. PurpleSec, 7 July 2019, https://purplesec.us/perform-successful-network-vulnerability-assessment/. Accessed 5 Mar. 2023.
-
-### [6] ‘Penetration Testing for Regulatory Compliance’. Reciprocity, https://reciprocity.com/resource-center/penetration-testing-for-regulatory-compliance/. Accessed 5 Mar. 2023.
-
-### [7] ‘Pen Testing vs. Vulnerability Scanning: What’s the Difference? | TechTarget’. Security, https://www.techtarget.com/searchsecurity/tip/The-differences-between-pen-tests-vs-vulnerability-scanning. Accessed 5 Mar. 2023.
-
-### [8] Church, Andrew. ‘4 Steps to Conducting a Proper Vulnerability Assessment’. Candid Blog, 20 Nov. 2020, https://blog.candid.org/post/4-steps-to-conducting-a-proper-vulnerability-assessment/. Accessed 5th Mar. 2023.
-
-### [9] ‘Manual vs Automated Penetration Testing’. BlueFort Security, https://www.bluefort.com/news/latest-blogs/manual-vs-automated-penetration-testing/. Accessed 5 Mar. 2023.
-
-### [10] Mitigo. Cyber and Data Security – Five Legal Obligations You Shouldn’t Ignore. https://www.lawsociety.org.uk/topics/small-firms/cyber-and-data-security-five-legal-obligations-you-should-not-ignore. Accessed 5 Mar. 2023.
-
-### [11] Download Nessus. https://www.tenable.com/downloads/nessus?loginAttempted=true. Accessed 5th Mar. 2023.
-
-### [12] Example: Host Discovery (Nessus 10.5). https://docs.tenable.com/nessus/Content/HostDiscovery.htm. Accessed 5th Mar. 2023.
-
-### [13] Scan and Policy Settings (Nessus 10.5). https://docs.tenable.com/nessus/Content/TemplateSettings.htm. Accessed 5th Mar. 2023.
-
-### [14] Preconfigured Discovery Scan Settings (Nessus 10.5). https://docs.tenable.com/nessus/Content/DiscoverySettingsPreconfigured.htm. Accessed 5th Mar. 2023.
-
-### [15] Nessus Scan Essentials And Scan Analysis (Hands-On). www.youtube.com, https://www.youtube.com/watch?v=ynTagBRTB-4. Accessed 5th Mar. 2023.
-
-### [16] How to Configure Nessus Vulnerability Scanner. www.youtube.com, https://www.youtube.com/watch?v=ho7hTbuhXz4. Accessed 5th Mar. 2023.
-
-### [17] Antivirus Software (Nessus 10.5). https://docs.tenable.com/nessus/Content/AntivirusSoftware.htm. Accessed 5th Mar. 2023.
-
-### [18] ‘4 Ways to Improve Nessus Scans Through Firewalls’. Tenable®, 18 Dec. 2020, https://www.tenable.com/blog/4-ways-to-improve-nessus-scans-through-firewalls. Accessed 5th Mar. 2023.
-
-### [19] Deland-Han. Overview of Server Message Block Signing - Windows Server. 23 Feb. 2023, https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/overview-server-message-block-signing. Accessed 5th Mar. 2023.
-
-### [20] vinaypamnani-msft. Configure Security Policy Settings (Windows 10). 17 Feb. 2023, https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/how-to-configure-security-policy-settings. Accessed 5th Mar. 2023.
+- [1] ‘What Is the Nessus Scanner? Working and Key Features’. Spiceworks, https://www.spiceworks.com/it-security/data-security/articles/what-is-nessus-scanner/. Accessed 5 Mar. 2023.
+- [2] ‘Data Protection’. GOV.UK, https://www.gov.uk/data-protection. Accessed 5 Mar. 2023.
+- [3] About Cyber Essentials. https://www.ncsc.gov.uk/cyberessentials/overview. Accessed 5 Mar. 2023.
+- [4] Tankard, Colin. ‘Cyber Essentials Accreditation – Is It Worth It?’ Elite Business Magazine, 21 Oct. 2022, https://elitebusinessmagazine.co.uk/technology/item/cyber-essentials-accreditation-is-it-worth-it. Accessed 5 Mar. 2023.
+- [5] ECSA, Strahinja Stankovic. ‘How To Perform A Successful Network Vulnerability Assessment’. PurpleSec, 7 July 2019, https://purplesec.us/perform-successful-network-vulnerability-assessment/. Accessed 5 Mar. 2023.
+- [6] ‘Penetration Testing for Regulatory Compliance’. Reciprocity, https://reciprocity.com/resource-center/penetration-testing-for-regulatory-compliance/. Accessed 5 Mar. 2023.
+- [7] ‘Pen Testing vs. Vulnerability Scanning: What’s the Difference? | TechTarget’. Security, https://www.techtarget.com/searchsecurity/tip/The-differences-between-pen-tests-vs-vulnerability-scanning. Accessed 5 Mar. 2023.
+- [8] Church, Andrew. ‘4 Steps to Conducting a Proper Vulnerability Assessment’. Candid Blog, 20 Nov. 2020, https://blog.candid.org/post/4-steps-to-conducting-a-proper-vulnerability-assessment/. Accessed 5th Mar. 2023.
+- [9] ‘Manual vs Automated Penetration Testing’. BlueFort Security, https://www.bluefort.com/news/latest-blogs/manual-vs-automated-penetration-testing/. Accessed 5 Mar. 2023.
+- [10] Mitigo. Cyber and Data Security – Five Legal Obligations You Shouldn’t Ignore. https://www.lawsociety.org.uk/topics/small-firms/cyber-and-data-security-five-legal-obligations-you-should-not-ignore. Accessed 5 Mar. 2023.
+- [11] Download Nessus. https://www.tenable.com/downloads/nessus?loginAttempted=true. Accessed 5th Mar. 2023.
+- [12] Example: Host Discovery (Nessus 10.5). https://docs.tenable.com/nessus/Content/HostDiscovery.htm. Accessed 5th Mar. 2023.
+- [13] Scan and Policy Settings (Nessus 10.5). https://docs.tenable.com/nessus/Content/TemplateSettings.htm. Accessed 5th Mar. 2023.
+- [14] Preconfigured Discovery Scan Settings (Nessus 10.5). https://docs.tenable.com/nessus/Content/DiscoverySettingsPreconfigured.htm. Accessed 5th Mar. 2023.
+- [15] Nessus Scan Essentials And Scan Analysis (Hands-On). www.youtube.com, https://www.youtube.com/watch?v=ynTagBRTB-4. Accessed 5th Mar. 2023.
+- [16] How to Configure Nessus Vulnerability Scanner. www.youtube.com, https://www.youtube.com/watch?v=ho7hTbuhXz4. Accessed 5th Mar. 2023.
+- [17] Antivirus Software (Nessus 10.5). https://docs.tenable.com/nessus/Content/AntivirusSoftware.htm. Accessed 5th Mar. 2023.
+- [18] ‘4 Ways to Improve Nessus Scans Through Firewalls’. Tenable®, 18 Dec. 2020, https://www.tenable.com/blog/4-ways-to-improve-nessus-scans-through-firewalls. Accessed 5th Mar. 2023.
+- [19] Deland-Han. Overview of Server Message Block Signing - Windows Server. 23 Feb. 2023, https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/overview-server-message-block-signing. Accessed 5th Mar. 2023.
+- [20] vinaypamnani-msft. Configure Security Policy Settings (Windows 10). 17 Feb. 2023, https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/how-to-configure-security-policy-settings. Accessed 5th Mar. 2023.
 
 ## Appendix A
 
