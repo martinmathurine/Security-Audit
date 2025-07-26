@@ -1,4 +1,4 @@
-# Nessus Essentials Vulnerability Management Life Cycle Lab
+# Nessus Essentials Vulnerability Management Lab 1
 
 ## Introduction – Background Information
 A virtual lab simulating a typical home network was created, featuring multiple hosts like smart devices and PCs with assigned IPs. This environment enabled realistic vulnerability assessment testing.
